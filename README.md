@@ -1,2 +1,2 @@
 # ddi_odev
-Doal dil isleme Regex odevi
+Doal dil isleme final odev
